@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1369317097 source:d:\programmation\cpp\sudosolver\main.cpp
+	<iostream>
+	"Sudoku.hpp"
+
+1369313404 d:\programmation\cpp\sudosolver\sudoku.hpp
+	<vector>
+
+1369317195 source:d:\programmation\cpp\sudosolver\sudoku.cpp
+	"Sudoku.hpp"
+	<iostream>
+
